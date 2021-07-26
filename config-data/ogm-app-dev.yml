@@ -1,0 +1,5 @@
+com:
+  ogm:
+    application:
+      name: ogm-app
+      alias: OGM Application
